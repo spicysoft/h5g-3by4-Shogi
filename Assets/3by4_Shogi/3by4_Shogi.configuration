@@ -16,6 +16,10 @@
             "orientation": 0,
             "renderMode": 0
         }, {
+            "$type": "GameState, 3by4_Shogi",
+            "NowTurn": 0,
+            "WinnetNum": 0
+        }, {
             "$type": "Unity.Tiny.Scenes.Scenes, Unity.Tiny.Scenes",
             "Elements": [{
                 "SceneReference": {
@@ -35,6 +39,8 @@
                 "StableTypeHash": 7960064150805274675
             }, {
                 "StableTypeHash": 12662904853204722592
+            }, {
+                "StableTypeHash": 6567320700156247589
             }]
         }, {
             "$type": "Unity.Authoring.Core.ConfigurationTag, Unity.Authoring.Core"
